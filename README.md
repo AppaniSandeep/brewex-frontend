@@ -6,7 +6,7 @@ This is a React-based frontend for a simple content management system (CMS) that
 
 ## 🌐 Live Demo
 
-- **Frontend (React)** – `http://localhost:3000` *(or your deployed URL)*
+- **Frontend (React)** – `https://brewex-frontend.vercel.app/` (https://brewex-frontend.vercel.app/)
 - **Backend (Express + SQLite)** – [https://backend-brewex1.onrender.com](https://backend-brewex1.onrender.com)
 
 ---
